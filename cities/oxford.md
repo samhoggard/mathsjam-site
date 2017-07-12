@@ -13,5 +13,5 @@ location:
     url: http://www.thejamfactoryoxford.com/
     lon: -1.267512200000056
     lat: 51.7523908
-hiatus: False
+hiatus: true
 ---
